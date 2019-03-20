@@ -1,0 +1,26 @@
+.jumbotron{text-align: center; font-family:'Lato', sans-serif; color: #5680E9; background-color: #66FCF1 !important; }
+
+div {
+    background-color: #4ABDAC; text-align: center; 
+}
+.carousel-inner{
+    height: 510px;
+}
+.header_static{
+    color: #4717F6;
+}
+.nav-item{
+    color:red; font-family: 'Lato', sans-serif; 
+}
+.card-title{
+    color: #0E60CF; font-family: 'Lato', sans-serif; 
+}
+.card-text {
+    color: #0033FF; height: 100px; font-family: 'Lato', sans-serif; 
+}
+.card-body {
+    border-style: solid; border-color: #0F5F95; 
+}
+.header_logo {
+    font-family: 'Roboto Mono', monospace;
+}
